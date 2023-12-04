@@ -21,7 +21,7 @@
 - Run ```python filename.py```
 
 ### Subscriber (in Local Server)
-- Install MQTT Explorer.
+- Install [MQTT Explorer](https://mqtt-explorer.com/).
 - Set the details of hostname, port number as editted in the program.
 - Set MQTT Topic as per the program.
 - Connect the server.
